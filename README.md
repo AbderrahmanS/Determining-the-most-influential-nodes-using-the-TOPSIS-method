@@ -28,3 +28,7 @@ The Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) i
 6. Identify the top influential nodes: The top influential nodes can be determined as the alternatives with the highest similarity index or the ones closest to the ideal solution.
 
 Note: The TOPSIS method assumes that all criteria have the same importance. If this is not the case, the criteria should be weighted appropriately.
+
+## The SI model ?
+
+The SI model, in the context of epidemiology and infectious disease dynamics, refers to the Susceptible-Infected model. It's a basic mathematical model used to describe the spread of an infectious disease in a population. The model considers individuals to be either susceptible (not yet infected), infected (able to spread the disease), or recovered/removed (no longer able to spread the disease). The model tracks the flow of individuals from the susceptible to the infected category, and from the infected to the recovered/removed category, over time. The SI model helps researchers to understand the dynamics of disease spread and inform public health interventions.
